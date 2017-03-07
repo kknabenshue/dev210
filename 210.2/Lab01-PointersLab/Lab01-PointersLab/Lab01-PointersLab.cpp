@@ -118,5 +118,5 @@ void ModifyPerson(Person &person1) {
 }
 
 void ModifyAge(Person * person1) {
-  person1->SetAge(26);
+  person1->SetAge(27);
 }
