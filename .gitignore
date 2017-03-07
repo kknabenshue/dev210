@@ -44,6 +44,7 @@ $RECYCLE.BIN/
 ipch/
 *.aps
 *.ncb
+*.VC.db
 *.opendb
 *.opensdf
 *.sdf
