@@ -93,7 +93,6 @@ int main()
   return 0;
 }
 
-
 void passByValue(int num1) {
   // Step 6.
   cout << "In passByValue()" << endl;
@@ -119,5 +118,5 @@ void ModifyPerson(Person &person1) {
 }
 
 void ModifyAge(Person * person1) {
-  person1->SetAge(26);
+  person1->SetAge(28);
 }
